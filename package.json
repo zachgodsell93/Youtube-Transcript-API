@@ -1,5 +1,5 @@
 {
-  "name": "youtube-transcript-api",
+  "name": "youtube-transcript-scraper",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -13,7 +13,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Zach Godsell <zach@zachgodsell.com>",
   "license": "ISC",
   "dependencies": {
     "@types/node-fetch": "^2.6.13",
